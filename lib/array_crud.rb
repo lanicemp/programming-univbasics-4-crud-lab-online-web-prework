@@ -19,11 +19,11 @@ end
 def remove_element_from_end_of_array(array)
   number_one = ["one", "two", "three", "four", "arrays!"]
   arrays_one = number_one.pop
-  
-  
 end
 
 def remove_element_from_start_of_array(array)
+  number_one = ["wow", "one", "two", "three"]
+  wow = number_one.shift 
   
 end
 
