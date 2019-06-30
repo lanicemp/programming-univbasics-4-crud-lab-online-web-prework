@@ -24,11 +24,11 @@ end
 def remove_element_from_start_of_array(array)
   number_one = ["wow", "one", "two", "three"]
   wow = number_one.shift 
-  
 end
 
 def retrieve_element_from_index(array, index_number)
-  
+  number_one = ["am", "one", "two", "three"]
+  number_one [0]  
 end
 
 def retrieve_first_element_from_array(array)
