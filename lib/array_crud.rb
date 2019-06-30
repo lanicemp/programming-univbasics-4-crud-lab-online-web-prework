@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   number_one = ["one", "two", "three", "four", "arrays!"]
-  "arrays!" = number_one.pop
+  "arrays!" == number_one.pop
   
 end
 
