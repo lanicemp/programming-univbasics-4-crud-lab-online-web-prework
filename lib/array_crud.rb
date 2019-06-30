@@ -17,8 +17,8 @@ number.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
-  number_one = ["one", "two", "three", "four", "arrays!"]
-  arrays!_one = number_one.pop
+  number_one = ["one", "two", "three", "four", "arrays"]
+  arrays_one = number_one.pop
   
 end
 
